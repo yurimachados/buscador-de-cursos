@@ -40,5 +40,6 @@
     "scripts-descriptions": {
         "check": "Roda as verificações do código. PHAN, PHPCS e o PHPUNIT"
     },
-    "license": "GLS-3"
+    "license": "GLP-3.0",
+    "bin":["buscar-cursos.php"]
 }
