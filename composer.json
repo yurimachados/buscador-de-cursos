@@ -39,5 +39,6 @@
     },
     "scripts-descriptions": {
         "check": "Roda as verificações do código. PHAN, PHPCS e o PHPUNIT"
-    }
+    },
+    "license": "GLS-3"
 }
